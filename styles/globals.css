@@ -1,6 +1,6 @@
-@import url("../public/css/bootstrap.min.css");
-@import url("../public/css/splide.min.css");
-@import url("../public/css/main.css");
+@import url("/css/bootstrap.min.css");
+@import url("/css/splide.min.css");
+@import url("/css/main.css");
 
 /* //LOADER */
 .new-loader-wrapper {

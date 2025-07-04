@@ -91,12 +91,12 @@ export default function App({ Component, pageProps }) {
       </WagmiConfig>
       
 
-      <script src="js/bootstrap.bundle.min.js"></script>
-      <script src="js/smooth-scrollbar.js"></script>
-      <script src="js/splide.min.js"></script>
-      <script src="js/three.min.js"></script>
-      <script src="js/vanta.fog.min.js"></script>
-      <script src="js/main.js"></script>
+      <script src="/js/bootstrap.bundle.min.js"></script>
+      <script src="/js/smooth-scrollbar.js"></script>
+      <script src="/js/splide.min.js"></script>
+      <script src="/js/three.min.js"></script>
+      <script src="/js/vanta.fog.min.js"></script>
+      <script src="/js/main.js"></script>
     </>
   );
 }
